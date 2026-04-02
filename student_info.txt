@@ -1,0 +1,4 @@
+9342021900,Priya prakash,prakash,suma,2002-11-21,pri21@gmail.com,dbit college,scooter,14:30,2024-12-04,G1,g-101,
+7760357831,Rahul patel,suresh,hema,2000-01-05,rahul333@gmail.com,infosys,bike,14:45,2024-12-04,B1,b-101,
+9141333144,Sanvi shetty,ashok,veena,2002-07-02,sanvi27@gmail.com,acs college,none,15:03,2024-12-04,G2,g-101,
+9876543210,Suhas reddy,kumar,rani,2000-11-09,su09@gmail.com,dbit college,car,19:38,2024-12-04,B2,b-101,
